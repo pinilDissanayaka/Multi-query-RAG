@@ -26,7 +26,7 @@ pip install -r requirements.txt
 Contributions are welcome! Please fork this repository and submit a pull request for any improvements or bug fixes.
 
 ## Acknowledgments
-[LangChain](https://www.langchain.com/): For providing the framework to build this application.
-[Hugging Face](https://huggingface.co/models?library=sentence-transformers&author=sentence-transformers): For their high-quality embeddings.
-[Pinecone](https://www.pinecone.io/): For the efficient vector database solution.
-[Mistral-8X7B-32768](https://mistral.ai/): For the powerful language modeling capabilities.
+- [LangChain](https://www.langchain.com/): For providing the framework to build this application.
+- [Hugging Face](https://huggingface.co/models?library=sentence-transformers&author=sentence-transformers): For their high-quality embeddings.
+- [Pinecone](https://www.pinecone.io/): For the efficient vector database solution.
+- [Mistral-8X7B-32768](https://mistral.ai/): For the powerful language modeling capabilities.
